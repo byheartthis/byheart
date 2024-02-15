@@ -1,0 +1,12 @@
+/* Style for icon and text container */
+.icon-text-container {
+    display: flex; /* Use flexbox to align items */
+    align-items: center; /* Vertically center items */
+}
+
+/* Style for the icon */
+.icon-text-container img {
+    width: 40px; /* Set the width of the icon */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Add some spacing between the icon and text */
+}
