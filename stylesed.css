@@ -1,0 +1,14 @@
+/* Style for the centered container */
+.centered-container {
+    position: absolute; /* Position the container */
+    top: 50%; /* Align the container vertically at 50% from the top */
+    left: 50%; /* Align the container horizontally at 50% from the left */
+    transform: translate(-50%, -50%); /* Center the container */
+    text-align: center; /* Align the text inside the container */
+}
+
+/* Style for the heading */
+.centered-container h1 {
+    font-size: 36px; /* Set the font size of the heading */
+    font-weight: bold; /* Set the font weight of the heading */
+}
