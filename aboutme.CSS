@@ -1,0 +1,31 @@
+/* Reset default margin and padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the channel header */
+.channel-header {
+    background-color: #333; /* Set background color */
+    color:  #FFBF00; /* Set text color */
+    padding: 20px; /* Add padding */
+    text-align: center; /* Center align content */
+}
+
+/* Style for the channel header content */
+.channel-header-content {
+    max-width: 800px; /* Set maximum width */
+    margin: 0 auto; /* Center align horizontally */
+}
+
+/* Style for the channel title */
+.channel-title {
+    font-size: 36px; /* Set font size */
+    margin-bottom: 10px; /* Add spacing */
+}
+
+/* Style for the channel description */
+.channel-description {
+    font-size: 18px; /* Set font size */
+    color:#fff;   	
+}
